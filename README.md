@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asrofilfachrulr
 - 👀 I’m interested in IT Infrastructure and System
-- 🌱 I’m currently learning Networking, Cloud Computing, and Cyber Security.
-- 📫 How to reach me .. no better you dont. (jk, but it is)
+- 🌱 I’m currently learning Backend, Networking, Cloud Computing, and Cyber Security.
+- 📫 How to reach me .. no better you dont. (jk, but just dont)
 
 <!---
 asrofilfachrulr/asrofilfachrulr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
